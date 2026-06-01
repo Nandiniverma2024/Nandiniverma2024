@@ -1,24 +1,22 @@
 # Hi there 👋, I'm Nandini Verma
 
-### 🚀 Full Stack Developer | React Developer | Building Products & Solving Problems
+### 🚀 Full Stack Developer | Building End-to-End Web Applications
 
-I enjoy turning ideas into real-world web applications. From responsive frontends to full-stack projects, I love building products that are fast, user-friendly, and impactful.
+I enjoy building complete web products—from designing responsive user interfaces to developing APIs, managing databases, and deploying applications. My focus is creating scalable, user-centric solutions that solve real-world problems.
 
 ---
 
 ## 💫 About Me
 
-🔭 Currently building full-stack applications using React, Node.js, Express.js, and MongoDB
+🔭 Building full-stack applications using React, Node.js, Express.js, MongoDB, and PostgreSQL
 
-🌱 Exploring backend development, APIs, databases, and scalable web applications
+💼 Former Frontend Developer Intern with hands-on experience developing reusable components, responsive interfaces, and production-ready web applications
 
-💻 Former Frontend Developer Intern with experience in React, Astro.js, Tailwind CSS, and reusable component development
+🌱 Expanding my expertise in backend development, databases, system design, and scalable application architecture
 
-🎯 Focused on becoming a strong Software Engineer through projects, problem solving, and continuous learning
+⚡ Passionate about transforming ideas into fully functional products and continuously improving my engineering skills
 
-🤝 Open to collaborating on web development, SaaS products, startup ideas, and open-source projects
-
-⚡ Fun fact: I love shipping projects from idea to deployment instead of leaving them in the "coming soon" stage.
+🤝 Open to collaborating on SaaS products, startup projects, web applications, and open-source development
 
 ---
 
@@ -26,15 +24,15 @@ I enjoy turning ideas into real-world web applications. From responsive frontend
 
 ### 🤖 Vexor AI
 
-AI-powered application built with Next.js, Clerk, Neon, Inngest, and Gemini API.
+AI-powered platform built using Next.js, Clerk, Neon PostgreSQL, Inngest, Tailwind CSS, and Gemini API.
 
 ### 🏨 Wanderlust
 
-Full-stack hotel booking platform with authentication, listings, and booking features.
+Full-stack hotel booking platform featuring authentication, listings, reviews, image uploads, and cloud storage integration.
 
 ### 😂 Mini Full Stack Jokes App
 
-Simple full-stack project demonstrating REST APIs and frontend-backend integration.
+REST API-based application demonstrating frontend-backend communication using React, Express.js, Axios, and deployment workflows.
 
 ---
 
@@ -42,28 +40,29 @@ Simple full-stack project demonstrating REST APIs and frontend-backend integrati
 
 ### Frontend
 
-React • JavaScript • HTML • CSS • Tailwind CSS • Astro.js
+React • JavaScript • HTML5 • CSS3 • Tailwind CSS • Astro.js • Responsive Design
 
 ### Backend
 
-Node.js • Express.js • REST APIs
+Node.js • Express.js • REST APIs • Authentication • API Integration
 
-### Database
+### Databases
 
-MongoDB • MySQL
+MongoDB • PostgreSQL • MySQL
 
-### Tools
+### Tools & Platforms
 
-Git • GitHub • Postman • VS Code
+Git • GitHub • Postman • VS Code • Vercel • Render
 
 ---
 
-## 📈 What I'm Working On
+## 📈 Currently Focused On
 
-* Building stronger full-stack projects
-* Learning backend architecture
-* Improving problem-solving skills
-* Creating projects worthy of startup internships
+* Building production-ready full-stack applications
+* Strengthening backend engineering skills
+* Learning scalable system architecture
+* Solving Data Structures & Algorithms problems
+* Contributing consistently to real-world projects
 
 ---
 
@@ -85,6 +84,86 @@ Git • GitHub • Postman • VS Code
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nandiniverma2024)
 
-## 🔥 Current Goal
+# Hi there 👋, I'm Nandini Verma
 
-Build an internship-ready portfolio with real-world projects and become a highly capable Full Stack Developer.
+### 🚀 Full Stack Developer | Building End-to-End Web Applications
+
+I enjoy building complete web products—from designing responsive user interfaces to developing APIs, managing databases, and deploying applications. My focus is creating scalable, user-centric solutions that solve real-world problems.
+
+---
+
+## 💫 About Me
+
+🔭 Building full-stack applications using React, Node.js, Express.js, MongoDB, and PostgreSQL
+
+💼 Former Frontend Developer Intern with hands-on experience developing reusable components, responsive interfaces, and production-ready web applications
+
+🌱 Expanding my expertise in backend development, databases, system design, and scalable application architecture
+
+⚡ Passionate about transforming ideas into fully functional products and continuously improving my engineering skills
+
+🤝 Open to collaborating on SaaS products, startup projects, web applications, and open-source development
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Vexor AI
+
+AI-powered platform built using Next.js, Clerk, Neon PostgreSQL, Inngest, Tailwind CSS, and Gemini API.
+
+### 🏨 Wanderlust
+
+Full-stack hotel booking platform featuring authentication, listings, reviews, image uploads, and cloud storage integration.
+
+### 📸 Photo Gallery App
+
+Full-stack application for uploading, storing, and managing images using React, Express.js, and MongoDB.
+
+### 😂 Mini Full Stack Jokes App
+
+REST API-based application demonstrating frontend-backend communication using React, Express.js, Axios, and deployment workflows.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+React • JavaScript • HTML5 • CSS3 • Tailwind CSS • Astro.js • Responsive Design
+
+### Backend
+
+Node.js • Express.js • REST APIs • Authentication • API Integration
+
+### Databases
+
+MongoDB • PostgreSQL • MySQL
+
+### Tools & Platforms
+
+Git • GitHub • Postman • VS Code • Vercel • Render
+
+---
+
+## 📈 Currently Focused On
+
+* Building production-ready full-stack applications
+* Strengthening backend engineering skills
+* Learning scalable system architecture
+* Solving Data Structures & Algorithms problems
+* Contributing consistently to real-world projects
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn
+* LeetCode
+* GeeksforGeeks
+
+---
+
+## 🎯 Vision
+
+To build impactful software products, contribute to innovative teams, and grow into a world-class software engineer.
