@@ -68,19 +68,15 @@ Git • GitHub • Postman • VS Code • Vercel • Render
 
 ## 🌐 Connect With Me
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)]((https://leetcode.com/u/NandiniVerma25/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/NandiniVerma25/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]((https://www.linkedin.com/in/nandini-verma202255/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nandini-verma202255/)
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/nandiniverma202021/)
 
 ---
 
 ## 📊 GitHub Stats
-
-![Nandini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandiniverma2024&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandiniverma2024&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nandiniverma2024)
 
