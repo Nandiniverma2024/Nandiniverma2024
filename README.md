@@ -76,6 +76,26 @@ Git • GitHub • Postman • VS Code • Vercel • Render
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## Activity Graph
+
+[![Nandini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nandiniverma2024)]
+
+---
+
+## Tech Icons
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,react,nodejs,mongodb,postgresql,tailwind,git,github" />
+</p>
+
+--
+
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nandiniverma2024)
